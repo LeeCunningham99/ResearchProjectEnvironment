@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/MSc_Computer_Animation/Y2/P0005/Content/FirstPerson/Input/Actions/IA_Flashlight.uasset",
+				"E:/MSc_Computer_Animation/Y2/P0005/Content/FirstPerson/Input/IMC_Default.uasset",
+				"E:/MSc_Computer_Animation/Y2/P0005/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/MSc_Computer_Animation/Y2/P0005/Content/FirstPerson/Input/Actions/IA_HideItem.uasset",
+				"E:/MSc_Computer_Animation/Y2/P0005/Content/Y2/Linger/Flashlight/W_Flashlight.uasset",
+				"E:/MSc_Computer_Animation/Y2/P0005/Content/Maps/EnvironmentalNarrative.umap",
+				"E:/MSc_Computer_Animation/Y2/P0005/Content/Y2/Linger/Flashlight/Flashlight_Battery_BP.uasset",
+				"E:/MSc_Computer_Animation/Y2/P0005/Content/Y2/Linger/Flashlight/Flashlight_BP.uasset"
+			]
+		}
+	]
+}
