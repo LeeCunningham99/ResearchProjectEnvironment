@@ -12,7 +12,19 @@
 				"E:/MSc_Computer_Animation/Y2/P0005/Content/Y2/Linger/Flashlight/W_Flashlight.uasset",
 				"E:/MSc_Computer_Animation/Y2/P0005/Content/Maps/EnvironmentalNarrative.umap",
 				"E:/MSc_Computer_Animation/Y2/P0005/Content/Y2/Linger/Flashlight/Flashlight_Battery_BP.uasset",
-				"E:/MSc_Computer_Animation/Y2/P0005/Content/Y2/Linger/Flashlight/Flashlight_BP.uasset"
+				"E:/MSc_Computer_Animation/Y2/P0005/Content/Y2/Linger/Flashlight/Flashlight_BP.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Flashlight/W_Flashlight.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Flashlight/Flashlight_Battery_BP.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Maps/EnvironmentalNarrative.umap",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/FirstPerson/Input/IMC_Default.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/W_Cursor.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/SlidingDoor_BP.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/DoorButton_BP.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/CameraShake/BP_CS_Idle.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/CameraShake/BP_CS_Sprint.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/CameraShake/BP_CS_Walk.uasset"
 			]
 		}
 	]
