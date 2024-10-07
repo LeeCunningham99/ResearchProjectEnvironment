@@ -24,7 +24,20 @@
 				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/DoorButton_BP.uasset",
 				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/CameraShake/BP_CS_Idle.uasset",
 				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/CameraShake/BP_CS_Sprint.uasset",
-				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/CameraShake/BP_CS_Walk.uasset"
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/CameraShake/BP_CS_Walk.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Lights/RedLightsFlicker_BP.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Lights/MaintenanceLight_BP.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Lights/M_FlickerFast.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Lights/M_FlickerSlow.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Lights/M_FlickerMed.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Lights/MainHallLights_BP.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Materials/Landscape/M_Landscape.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Lights/EngineRoomLights.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Lights/LastHallLights_BP.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Lights/M_emisisveFlicker.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Lights/M_emisisveFlickerFast.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Lights/M_emisisveFlickerMed.uasset",
+				"E:/MSc_Computer_Animation/Y2/ResearchProjectEnvironment/P0005/Content/Y2/Linger/Lights/M_emisisveFlickerSlow.uasset"
 			]
 		}
 	]
