@@ -1,0 +1,29 @@
+{
+	"creationTime": "2024.12.16-17.21.20",
+	"sourcePlatform": "Windows",
+	"sourceRHI": "D3D12",
+	"idealApprovedFolderPath": "Test/Screenshots/EnvironmentalNarrativeTEST/CA2_BPT_SS_CameraShake1/Windows/D3D12_SM6",
+	"approvedFilePath": "Test/Screenshots/EnvironmentalNarrativeTEST/CA2_BPT_SS_CameraShake1/Windows/D3D12_SM6/_ixfxeomrol2dlsd06o0wq.png",
+	"incomingFilePath": "Saved/Automation/Tmp/EnvironmentalNarrativeTEST/CA2_BPT_SS_CameraShake1/Windows/D3D12_SM6/_ixfxeomrol2dlsd06o0wq.png",
+	"comparisonFilePath": "Saved/Automation/Tmp/Delta/ImageCompare-53E9C3B74D97636C66A2EBA8DEAB9B3F.png",
+	"reportApprovedFilePath": "EnvironmentalNarrativeTEST/CA2_BPT_SS_CameraShake1/Windows/D3D12_SM6/Approved.png",
+	"reportIncomingFilePath": "EnvironmentalNarrativeTEST/CA2_BPT_SS_CameraShake1/Windows/D3D12_SM6/Incoming.png",
+	"reportComparisonFilePath": "EnvironmentalNarrativeTEST/CA2_BPT_SS_CameraShake1/Windows/D3D12_SM6/Delta.png",
+	"maxLocalDifference": 0.045717592592592594,
+	"globalDifference": 0.0023133680555555555,
+	"tolerance":
+	{
+		"red": 16,
+		"green": 16,
+		"blue": 16,
+		"alpha": 16,
+		"minBrightness": 16,
+		"maxBrightness": 240,
+		"ignoreAntiAliasing": true,
+		"ignoreColors": false,
+		"maximumLocalError": 0.10000000149011612,
+		"maximumGlobalError": 0.019999999552965164
+	},
+	"errorMessage": "",
+	"version": 2
+}
